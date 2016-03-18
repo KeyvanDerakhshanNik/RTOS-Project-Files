@@ -1,0 +1,29 @@
+#!/bin/bash
+# My shellscript
+echo "The Project for Truss execution time " > Trussoutput.txt
+echo "The Project for Counter " >> Trussoutput.txt
+for i in 1 2 3 4 5 6 7 8 9 10
+do
+echo "$i times" >> Trussoutput.txt
+truss  -o ./truss ../../NetBeansProjects/c/main >>Trussoutput.txt
+done
+echo "The Project for dup and exit base " >> Trussoutput.txt
+for j in 1 2 3 4 5 6 7 8 9 10
+do
+echo "$j times" >>Trussoutput.txt
+truss  -o ./truss ../../NetBeansProjects/d/main >>Trussoutput.txt
+done
+echo "The Project for I/O " >> Trussoutput.txt
+for k in 1 2 3 4 5 6 7 8 9 10
+do
+echo "$k times" >>Trussoutput.txt
+truss  -o ./truss ../../NetBeansProjects/i/main  >>Trussoutput.txt
+done
+echo "The Project for sysbench " >> Trussoutput.txt
+for l in 1 2 3 4 5 6 7 8 9 10
+do
+echo "$l times" >>Trussoutput.txt
+truss  -o ./truss sysbench --test=cpu --cpu-max-prime=20000 run >>Trussoutput.txt
+done
+
+echo "That's It!" >>Trussoutput.txt

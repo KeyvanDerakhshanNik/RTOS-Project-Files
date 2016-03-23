@@ -2,166 +2,166 @@ The Project for Ktrace execution time
 The Project for Counter 
 1 times
 Counter
-539039 
+853600 
 704982704 
-539260 
-Total execution time in micro-second is : 221 
+854505 
+Total execution time in micro-second is : 905 
 2 times
 Counter
-541594 
+862651 
 704982704 
-541812 
-Total execution time in micro-second is : 218 
+863465 
+Total execution time in micro-second is : 814 
 3 times
 Counter
-544067 
+871569 
 704982704 
-544298 
-Total execution time in micro-second is : 231 
+872465 
+Total execution time in micro-second is : 896 
 4 times
 Counter
-546600 
+880325 
 704982704 
-546843 
-Total execution time in micro-second is : 243 
+881143 
+Total execution time in micro-second is : 818 
 5 times
 Counter
-549100 
+889017 
 704982704 
-549319 
-Total execution time in micro-second is : 219 
+889834 
+Total execution time in micro-second is : 817 
 6 times
 Counter
-551571 
+897636 
 704982704 
-551789 
-Total execution time in micro-second is : 218 
+898450 
+Total execution time in micro-second is : 814 
 7 times
 Counter
-554010 
+906232 
 704982704 
-554229 
-Total execution time in micro-second is : 219 
+907050 
+Total execution time in micro-second is : 818 
 8 times
 Counter
-556444 
+914831 
 704982704 
-556685 
-Total execution time in micro-second is : 241 
+915648 
+Total execution time in micro-second is : 817 
 9 times
 Counter
-558912 
+923425 
 704982704 
-559130 
-Total execution time in micro-second is : 218 
+924244 
+Total execution time in micro-second is : 819 
 10 times
 Counter
-561369 
+932009 
 704982704 
-561587 
-Total execution time in micro-second is : 218 
+932825 
+Total execution time in micro-second is : 816 
 The Project for dup and exit base 
 1 times
 dup and close
-563814 
-686533 
-Total execution time in micro-second is : 122719 
+940619 
+207812 
+Total execution time in micro-second is : -732807 
 2 times
 dup and close
-691154 
-814392 
-Total execution time in micro-second is : 123238 
+214909 
+375192 
+Total execution time in micro-second is : 160283 
 3 times
 dup and close
-818930 
-942285 
-Total execution time in micro-second is : 123355 
+379455 
+490986 
+Total execution time in micro-second is : 111531 
 4 times
 dup and close
-946838 
-68725 
-Total execution time in micro-second is : -878113 
+495261 
+606325 
+Total execution time in micro-second is : 111064 
 5 times
 dup and close
-73208 
-194823 
-Total execution time in micro-second is : 121615 
+610574 
+722670 
+Total execution time in micro-second is : 112096 
 6 times
 dup and close
-199419 
-321362 
-Total execution time in micro-second is : 121943 
+726877 
+838583 
+Total execution time in micro-second is : 111706 
 7 times
 dup and close
-325936 
-448549 
-Total execution time in micro-second is : 122613 
+843035 
+954672 
+Total execution time in micro-second is : 111637 
 8 times
 dup and close
-453165 
-575140 
-Total execution time in micro-second is : 121975 
+958839 
+69844 
+Total execution time in micro-second is : -888995 
 9 times
 dup and close
-579761 
-701835 
-Total execution time in micro-second is : 122074 
+74208 
+184166 
+Total execution time in micro-second is : 109958 
 10 times
 dup and close
-706455 
-828616 
-Total execution time in micro-second is : 122161 
+188488 
+300135 
+Total execution time in micro-second is : 111647 
 The Project for I/O 
 1 times
 I/O 
-833293 
-837489 
-Total execution time in micro-second is : 4196 
+304503 
+307584 
+Total execution time in micro-second is : 3081 
 2 times
 I/O 
-839981 
-844204 
-Total execution time in micro-second is : 4223 
+309881 
+312939 
+Total execution time in micro-second is : 3058 
 3 times
 I/O 
-846672 
-850851 
-Total execution time in micro-second is : 4179 
+315174 
+318168 
+Total execution time in micro-second is : 2994 
 4 times
 I/O 
-853336 
-857562 
-Total execution time in micro-second is : 4226 
+320331 
+323289 
+Total execution time in micro-second is : 2958 
 5 times
 I/O 
-860043 
-864223 
-Total execution time in micro-second is : 4180 
+325489 
+328458 
+Total execution time in micro-second is : 2969 
 6 times
 I/O 
-866683 
-870876 
-Total execution time in micro-second is : 4193 
+330663 
+333655 
+Total execution time in micro-second is : 2992 
 7 times
 I/O 
-873346 
-877565 
-Total execution time in micro-second is : 4219 
+335844 
+338852 
+Total execution time in micro-second is : 3008 
 8 times
 I/O 
-880032 
-884231 
-Total execution time in micro-second is : 4199 
+341031 
+344020 
+Total execution time in micro-second is : 2989 
 9 times
 I/O 
-886694 
-890884 
-Total execution time in micro-second is : 4190 
+346221 
+349226 
+Total execution time in micro-second is : 3005 
 10 times
 I/O 
-893344 
-897544 
-Total execution time in micro-second is : 4200 
+351426 
+354407 
+Total execution time in micro-second is : 2981 
 The Project for sysbench 
 1 times
 sysbench 0.4.12:  multi-threaded system evaluation benchmark
@@ -178,18 +178,18 @@ Maximum prime number checked in CPU test: 20000
 
 
 Test execution summary:
-    total time:                          20.1977s
+    total time:                          20.2293s
     total number of events:              10000
-    total time taken by event execution: 20.1967
+    total time taken by event execution: 20.2283
     per-request statistics:
-         min:                                  1.95ms
+         min:                                  1.97ms
          avg:                                  2.02ms
-         max:                                  2.41ms
-         approx.  95 percentile:               2.06ms
+         max:                                  2.17ms
+         approx.  95 percentile:               2.03ms
 
 Threads fairness:
     events (avg/stddev):           10000.0000/0.00
-    execution time (avg/stddev):   20.1967/0.00
+    execution time (avg/stddev):   20.2283/0.00
 
 2 times
 sysbench 0.4.12:  multi-threaded system evaluation benchmark
@@ -206,18 +206,18 @@ Maximum prime number checked in CPU test: 20000
 
 
 Test execution summary:
-    total time:                          20.1996s
+    total time:                          20.1631s
     total number of events:              10000
-    total time taken by event execution: 20.1985
+    total time taken by event execution: 20.1620
     per-request statistics:
-         min:                                  1.97ms
+         min:                                  1.96ms
          avg:                                  2.02ms
-         max:                                  2.13ms
-         approx.  95 percentile:               2.03ms
+         max:                                  2.17ms
+         approx.  95 percentile:               2.05ms
 
 Threads fairness:
     events (avg/stddev):           10000.0000/0.00
-    execution time (avg/stddev):   20.1985/0.00
+    execution time (avg/stddev):   20.1620/0.00
 
 3 times
 sysbench 0.4.12:  multi-threaded system evaluation benchmark
@@ -234,18 +234,18 @@ Maximum prime number checked in CPU test: 20000
 
 
 Test execution summary:
-    total time:                          20.1947s
+    total time:                          20.1793s
     total number of events:              10000
-    total time taken by event execution: 20.1936
+    total time taken by event execution: 20.1783
     per-request statistics:
          min:                                  1.96ms
          avg:                                  2.02ms
-         max:                                  2.19ms
-         approx.  95 percentile:               2.05ms
+         max:                                  2.16ms
+         approx.  95 percentile:               2.04ms
 
 Threads fairness:
     events (avg/stddev):           10000.0000/0.00
-    execution time (avg/stddev):   20.1936/0.00
+    execution time (avg/stddev):   20.1783/0.00
 
 4 times
 sysbench 0.4.12:  multi-threaded system evaluation benchmark
@@ -262,18 +262,18 @@ Maximum prime number checked in CPU test: 20000
 
 
 Test execution summary:
-    total time:                          20.1919s
+    total time:                          20.1928s
     total number of events:              10000
-    total time taken by event execution: 20.1908
+    total time taken by event execution: 20.1918
     per-request statistics:
          min:                                  1.96ms
          avg:                                  2.02ms
-         max:                                  2.18ms
-         approx.  95 percentile:               2.03ms
+         max:                                  2.19ms
+         approx.  95 percentile:               2.07ms
 
 Threads fairness:
     events (avg/stddev):           10000.0000/0.00
-    execution time (avg/stddev):   20.1908/0.00
+    execution time (avg/stddev):   20.1918/0.00
 
 5 times
 sysbench 0.4.12:  multi-threaded system evaluation benchmark
@@ -290,18 +290,18 @@ Maximum prime number checked in CPU test: 20000
 
 
 Test execution summary:
-    total time:                          20.1980s
+    total time:                          20.2242s
     total number of events:              10000
-    total time taken by event execution: 20.1970
+    total time taken by event execution: 20.2232
     per-request statistics:
-         min:                                  1.96ms
+         min:                                  1.97ms
          avg:                                  2.02ms
-         max:                                  2.13ms
-         approx.  95 percentile:               2.03ms
+         max:                                  2.17ms
+         approx.  95 percentile:               2.04ms
 
 Threads fairness:
     events (avg/stddev):           10000.0000/0.00
-    execution time (avg/stddev):   20.1970/0.00
+    execution time (avg/stddev):   20.2232/0.00
 
 6 times
 sysbench 0.4.12:  multi-threaded system evaluation benchmark
@@ -318,18 +318,18 @@ Maximum prime number checked in CPU test: 20000
 
 
 Test execution summary:
-    total time:                          20.2147s
+    total time:                          20.1924s
     total number of events:              10000
-    total time taken by event execution: 20.2137
+    total time taken by event execution: 20.1914
     per-request statistics:
-         min:                                  1.96ms
+         min:                                  1.97ms
          avg:                                  2.02ms
-         max:                                  2.17ms
-         approx.  95 percentile:               2.04ms
+         max:                                  2.13ms
+         approx.  95 percentile:               2.03ms
 
 Threads fairness:
     events (avg/stddev):           10000.0000/0.00
-    execution time (avg/stddev):   20.2137/0.00
+    execution time (avg/stddev):   20.1914/0.00
 
 7 times
 sysbench 0.4.12:  multi-threaded system evaluation benchmark
@@ -346,18 +346,18 @@ Maximum prime number checked in CPU test: 20000
 
 
 Test execution summary:
-    total time:                          20.1664s
+    total time:                          20.1803s
     total number of events:              10000
-    total time taken by event execution: 20.1653
+    total time taken by event execution: 20.1793
     per-request statistics:
          min:                                  1.96ms
          avg:                                  2.02ms
          max:                                  2.17ms
-         approx.  95 percentile:               2.03ms
+         approx.  95 percentile:               2.06ms
 
 Threads fairness:
     events (avg/stddev):           10000.0000/0.00
-    execution time (avg/stddev):   20.1653/0.00
+    execution time (avg/stddev):   20.1793/0.00
 
 8 times
 sysbench 0.4.12:  multi-threaded system evaluation benchmark
@@ -374,18 +374,18 @@ Maximum prime number checked in CPU test: 20000
 
 
 Test execution summary:
-    total time:                          20.2024s
+    total time:                          20.2083s
     total number of events:              10000
-    total time taken by event execution: 20.2014
+    total time taken by event execution: 20.2073
     per-request statistics:
          min:                                  1.97ms
          avg:                                  2.02ms
          max:                                  2.13ms
-         approx.  95 percentile:               2.03ms
+         approx.  95 percentile:               2.05ms
 
 Threads fairness:
     events (avg/stddev):           10000.0000/0.00
-    execution time (avg/stddev):   20.2014/0.00
+    execution time (avg/stddev):   20.2073/0.00
 
 9 times
 sysbench 0.4.12:  multi-threaded system evaluation benchmark
@@ -402,18 +402,18 @@ Maximum prime number checked in CPU test: 20000
 
 
 Test execution summary:
-    total time:                          20.2410s
+    total time:                          20.2152s
     total number of events:              10000
-    total time taken by event execution: 20.2399
+    total time taken by event execution: 20.2142
     per-request statistics:
          min:                                  1.97ms
          avg:                                  2.02ms
-         max:                                  2.17ms
-         approx.  95 percentile:               2.05ms
+         max:                                  2.18ms
+         approx.  95 percentile:               2.03ms
 
 Threads fairness:
     events (avg/stddev):           10000.0000/0.00
-    execution time (avg/stddev):   20.2399/0.00
+    execution time (avg/stddev):   20.2142/0.00
 
 10 times
 sysbench 0.4.12:  multi-threaded system evaluation benchmark
@@ -430,17 +430,17 @@ Maximum prime number checked in CPU test: 20000
 
 
 Test execution summary:
-    total time:                          20.2184s
+    total time:                          20.1956s
     total number of events:              10000
-    total time taken by event execution: 20.2173
+    total time taken by event execution: 20.1945
     per-request statistics:
          min:                                  1.96ms
          avg:                                  2.02ms
-         max:                                  2.18ms
+         max:                                  2.15ms
          approx.  95 percentile:               2.03ms
 
 Threads fairness:
     events (avg/stddev):           10000.0000/0.00
-    execution time (avg/stddev):   20.2173/0.00
+    execution time (avg/stddev):   20.1945/0.00
 
 That's It!
